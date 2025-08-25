@@ -37,5 +37,5 @@ O foco do projeto foi praticar:
 
 ## 📷 Link do Projeto 
 
-https://github.com/lucascholzeh/Pokedex-DIO
+lucascholzeh.github.io/Pokedex-DIO/
 
